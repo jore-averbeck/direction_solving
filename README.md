@@ -1,31 +1,14 @@
-# Fixing errors in JavaScript code
+# Solve Directions
 
-## Task
+Implementiere eine Funktion solve(directions), die als Übergabeparameter eine Liste an Richtungen nimmt
 
-Go into the `./js/index.js` file and fix the described errors. You find there 4 tasks and 4 bugs.
+und als Rückgabewert die optimierte Liste zurückgibt, in der alle direkt aufeinanderfolgenden gegensätzli-
+che Richtungen entfernt wurden. Bitte halte dich wenn möglich an Best Practices. Die Lösung soll uns einen
 
-## Notes
+Einblick in dein Arbeiten vermitteln. Stell dir vor du bearbeitest ein Ticket, dessen Lösung von deinen Kol-
+legen und Kolleginnen in ein größeres Projekt implementiert werden soll. Deine Kollegen und Kolleginnen
 
-- You only have to touch the `./js/index.js` file.
-
-## Development
-
-### Local Development
-
-To work locally, please install the dependencies using `npm i` first.
-
-Run `npm run start` to start a development server and open [localhost:3000](http://localhost:3000) in a browser.
-
-> Alternatively you can use the Live Preview Extension for Visual Studio Code to view this project.  
-> Select the HTML file you want to view, press <kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd>, search for `Live Preview: Show Preview` and confirm with <kbd>Enter</kbd>.
-
-Use `npm run test` to run the tests.
-
-### CodeSandbox Cloud
-
-Select the "Preview: 3000" tab to view this project.
-
-Select the "Tests: logs" tab to view the tests.
+müssen also deine Lösung nachvollziehen können.
 
 > The `npm run start` and `npm run test` scripts run automatically.
 
