@@ -1,7 +1,6 @@
 # Solve Directions
 
-Implementiere eine Funktion solve(directions), die als Übergabeparameter eine Liste an Richtungen nimmt und als Rückgabewert die optimierte Liste zurückgibt, in der alle direkt aufeinanderfolgenden gegensätzli-
-che Richtungen entfernt wurden. Bitte halte dich wenn möglich an Best Practices. Die Lösung soll uns einen
+Implementiere eine Funktion solve(directions), die als Übergabeparameter eine Liste an Richtungen nimmt und als Rückgabewert die optimierte Liste zurückgibt, in der alle direkt aufeinanderfolgenden gegensätzliche Richtungen entfernt wurden. 
 
 
 ### Scripts
